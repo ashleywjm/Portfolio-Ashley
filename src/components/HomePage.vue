@@ -84,6 +84,11 @@ const skillCategories = [
       </div>
     </section>
 
+    <section id="projects" class="section projects-section" style="padding: 4rem 2rem;">
+      <h2 class="section-title">Projects</h2>
+      <p style="text-align: center; color: #994d47;">Add your projects content here</p>
+    </section>
+
     <section id="skills" class="section skills-section">
       <h2 class="section-title">Technical Skills</h2>
 

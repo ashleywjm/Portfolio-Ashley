@@ -6,6 +6,7 @@ const isMenuOpen = ref(false)
 const navItems = [
   { label: 'Home', id: 'home' },
   { label: 'About', id: 'about' },
+  { label: 'Projects', id: 'projects'},
   { label: 'Skills', id: 'skills' },
   { label: 'Experience', id: 'experience' },
   { label: 'Portfolio', id: 'portfolio' },
