@@ -47,8 +47,8 @@ const skillCategories = [
       <img src="/docker_icon.png" alt="" class="docker-icon icon-3 d-none d-lg-block">
       <img src="/python_img.png" alt="" class="floating-icon icon-4 d-none d-lg-block">
 
-      <img src="/photo_2026-09-08_14-53-29.jpg" alt="" class="floating-icon icon-5 d-none d-lg-block">
-      <img src="/photo_2026-09-08_14-53-32.jpg" alt="" class="floating-icon icon-6 d-none d-lg-block">
+      <img src="/photo_2026-09-08_14-53-29.jpg" alt="" class="floating-icon icon-6 d-none d-lg-block">
+      <img src="/photo_2026-09-08_14-53-32.jpg" alt="" class="floating-icon icon-5 d-none d-lg-block">
       
       <div class="hero-content">
         <div class="hero-text">
@@ -268,8 +268,8 @@ const skillCategories = [
 .icon-3 { top: 15%; left: 30%; transform: rotate(-5deg); width: 50px; }
 .icon-4 { top: 92%; left: 2%; transform: rotate(10deg); width: 80px; }
 
-.icon-5 { top: 45%; left: 8%; transform: rotate(15deg); width: 90px; }  
-.icon-6 { top: 70%; right: 8%; transform: rotate(-20deg); width: 75px; }
+.icon-5 { top: 80%; left: 45%; transform: rotate(15deg); width: 90px; }
+.icon-6 { top: 70%; right: 8%; transform: rotate(-20deg); width: 130px; }
 
 /* ========================================= */
 /* ABOUT SECTION                             */
